@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Toddler Lock Screen</string>
+    <string name="accessibility_service_description">
+        Hardware buttons have to be blocked in the baby browing mode.
+        We only look at the hardware button events when lock is enabled,
+        other times we dont capture any personal data or button clicks.
+    </string>
+    <string name="welcome_mesage">\'Toddler Lock Screen\' app doesnt collect any of your personal data and uses the accessibility service just to</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="agree">Agree</string>
+    <string name="draw_permission_message">Permission to draw on other apps is needed to create overlay lock screen.</string>
+    <string name="draw_permssion_titme">Requires permission</string>
+    <string name="daw_permission_agree">Provide permission</string>
+    <string name="daw_permission_cancel">Cancel and Close</string>
+    <string name="accessibility_permission_title">Provide Accessibility permission</string>
+    <string name="accessibility_permission_message">Accessibility permission needed to block all hardware keys in Lock mode. You can choose to have degraded functionality by not allowing this.
+        Except recent hardware button, everything should work fine.
+    </string>
+    <string name="accessibility_permission_positive_btn">Provide permission</string>
+    <string name="accessibility_permission_cancel_btn">Cancel and Ignore</string>
+    <string name="notification_action_cancel">Cancel</string>
+    <string name="notification_action_config">Configuration Screen</string>
+
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
